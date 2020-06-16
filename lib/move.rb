@@ -14,7 +14,7 @@ def input_to_index(string)
   user_input = input - 1
 end
 
-
+#code for move method
 #method to represent the user input on the board in the terminal
 def move(array,position,player_letter = "X")
   #input logic here
